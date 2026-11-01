@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080E19"/><stop offset="1" stop-color="#102D4C"/></linearGradient>
+<linearGradient id="a"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#39D0D8"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#177DCD" stop-opacity=".32"/><stop offset="1" stop-color="#177DCD" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#58A6FF" opacity=".13"/></pattern>
+</defs>
+<rect width="1200" height="410" rx="22" fill="url(#bg)"/><rect width="1200" height="410" rx="22" fill="url(#dots)"/>
+<ellipse cx="940" cy="200" rx="350" ry="260" fill="url(#glow)"/>
+<path d="M0 409H1200" stroke="url(#a)" stroke-width="3"/>
+<g font-family="monospace" font-size="13" letter-spacing="2" fill="#7E99B5"><text x="48" y="44">RF / PERSONAL WORKSPACE</text><text x="963" y="44">BUILD · LEARN · REPEAT</text></g>
+<rect x="48" y="86" width="147" height="28" rx="14" fill="#153A53" stroke="#39D0D8" stroke-opacity=".4"/>
+<circle cx="65" cy="100" r="3" fill="#39D0D8"/><text x="78" y="105" fill="#9BE8ED" font-family="monospace" font-size="11" letter-spacing="1">HELLO, WORLD!</text>
+<text x="44" y="185" fill="#F0F6FC" font-family="Arial,sans-serif" font-weight="700" font-size="68" letter-spacing="-2">Raul Fabiano<tspan fill="#39D0D8">.</tspan></text>
+<text x="49" y="225" fill="#B7CCE0" font-family="Arial,sans-serif" font-size="21">Ideias que viram soluções.</text>
+<text x="49" y="255" fill="#B7CCE0" font-family="Arial,sans-serif" font-size="21">Código com propósito.</text>
+<path d="M49 288H604" stroke="#29425B"/>
+<text x="49" y="322" fill="#58A6FF" font-family="monospace" font-size="14">01 / IMPLANTAÇÃO</text><text x="252" y="322" fill="#58A6FF" font-family="monospace" font-size="14">02 / DESENVOLVIMENTO</text><text x="493" y="322" fill="#39D0D8" font-family="monospace" font-size="14">03 / QUALIDADE</text>
+<text x="49" y="374" fill="#6F8CA8" font-family="monospace" font-size="12">RAUL-FABIANO-DEV<tspan fill="#39D0D8">  /  </tspan>UM PROJETO DE CADA VEZ</text>
+<g transform="translate(925 211)">
+<circle r="133" fill="none" stroke="#58A6FF" stroke-opacity=".15"/>
+<circle r="111" fill="none" stroke="#39D0D8" stroke-opacity=".3" stroke-dasharray="4 12"/>
+<path d="M-128-40A134 134 0 0 1 63-118M128 40A134 134 0 0 1-63 118" fill="none" stroke="url(#a)" stroke-width="3"/>
+<rect x="-84" y="-84" width="168" height="168" rx="36" fill="#0C1C2F" stroke="#58A6FF" stroke-opacity=".6" transform="rotate(-8)"/>
+<text x="0" y="18" text-anchor="middle" fill="#EAF5FF" font-family="Arial,sans-serif" font-weight="700" font-size="66" letter-spacing="-4">RF</text>
+<text x="0" y="51" text-anchor="middle" fill="#39D0D8" font-family="monospace" font-size="12" letter-spacing="4">CREATE</text>
+<g><circle cx="133" cy="0" r="5" fill="#39D0D8"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></g>
+</g></svg>
