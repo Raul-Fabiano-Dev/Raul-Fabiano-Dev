@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=2" width="100%" alt="Raul Fabiano — Ideias que viram soluções. Código com propósito." />
+  <img src="./assets/hero-rf.svg" width="100%" alt="Raul Fabiano — Ideias que viram soluções. Código com propósito." />
 </p>
 
 <p align="center">
